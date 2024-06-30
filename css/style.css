@@ -1,0 +1,39 @@
+body {
+  padding-top: 56px;
+}
+
+.hoverino:hover{
+  color:white !important;
+  background-color:#5cb85c;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.navcores
+{
+  background-color: #282828 !important;
+}
+
+.butaocores{
+  background-color: aliceblue !important;
+  color:#ff2800 !important;
+  font-weight: bold !important;
+}
+
+.droparino
+{
+  color:aliceblue !important;
+}
+.droparino:hover{
+background-color: #FF2800 !important;
+opacity: 0.9;
+}
+.boldarino
+{
+  color:black;
+  font-weight: bold !important;
+}
+
+
+
+
